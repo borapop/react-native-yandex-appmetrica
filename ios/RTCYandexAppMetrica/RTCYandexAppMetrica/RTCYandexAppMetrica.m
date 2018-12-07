@@ -9,7 +9,8 @@
 #import "RTCYandexAppMetrica.h"
 
 #import <React/RCTConvert.h>
-#import <YandexMobileMetrica/YandexMobileMetrica.h>
+#import <YandexMobileMetrica/YMMYandexMetrica.h>
+#import <YandexMobileMetrica/YMMYandexMetricaConfiguration.h>
 
 @implementation RTCYandexAppMetrica {
     
